@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.form {
+    margin-bottom: 30px;
+}
